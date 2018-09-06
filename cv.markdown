@@ -11,7 +11,7 @@ I recently graduated from a specialty barista traineeship and passed the barista
 
 ## Education and Training
 
-# Barista Skills Foundation, _Specialty Coffee Association, July 2018 - August 2018_
+### Barista Skills Foundation, _Specialty Coffee Association, July 2018 - August 2018_
 Course covered the following: technical skills around brewing coffee and steaming milk; theory relating to coffee menus, extraction and coffee origin; workspace management, hygiene & safety, cleaning and maintenance.
 
 ### Specialty Barista Traineeship, _Well Grounded,  July 2018 - August 2018_
