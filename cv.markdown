@@ -15,13 +15,13 @@ I recently graduated from a specialty barista traineeship and passed the barista
 
 ## Education and Training
 
-### BARISTA SKILLS FOUNDATION, _SPECIALTY COFFEE ASSOCIATION, JULY 2018 - AUGUST 2018_
+# Barista Skills Foundation## , Specialty Coffee Association, July 2018 - August 2018_
 Course covered the following: technical skills around brewing coffee and steaming milk; theory relating to coffee menus, extraction and coffee origin; workspace management, hygiene & safety, cleaning and maintenance.
 
-### SPECIALTY BARISTA TRAINEESHIP, _WELL GROUNDED,  JULY 2018 - AUGUST 2018_
+### Specialty Barista Traineeship, _Well Grounded,  July 2018 - August 2018_
 Eight week course covered barista skills foundation content, sensory development, brewing techniques, basics of roasting theory, latte art development, interpersonal skills such as resilience, teamwork, collaboration, self awareness and collaboration. 
 
-### _HUMAN–CENTRED SYSTEMS, CITY UNIVERSITY, SEPTEMBER 2013 - MARCH 2014_
+### _Human–Centred Systems, City University, September 2013 - March 2014_
 Course covered the following: understand the latest academic research, theories and techniques in Human-Computer Interaction (HCI), User Experience (UX), usability and Interaction Design.
 
 
@@ -29,7 +29,7 @@ Course covered the following: understand the latest academic research, theories 
 
 ## Employment History
 
-### BARISTA, SPARROW, _AUGUST  2018 - SEPTEMBER 2018_
+### Barista, _Sparrow, August  2018 - September 2018_
 
 - Prep for service each morning by dialing-in to taste, ensuring everything needed for service is available and making sure that the space is organised for an efficient service. 
 - Make the menu to order, pass each order to the waiting staff.
