@@ -4,9 +4,12 @@ layout: default
 ---
 
 # Rachel Graves
+
 ## Specialty Coffee Association Qualified Barista
 
 ## Personal Profile
+
+I recently graduated from a specialty barista traineeship and passed the barista skills foundation course with the Specialty Coffee Association. I am looking for work at a specialty coffee shop who have high standards and a social conscience. I am friendly and polite, an excellent communicator, have great customer service skills and pride myself in being an ambassador of the coffee industry. I am hard-working, organised, efficient and maintain good standards of cleanliness. My ambitions are to improve my skills & progress my career by working towards being a head barista, and representing my employer in competitions. 
 
 
 ## Education and Training
