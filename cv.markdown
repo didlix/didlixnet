@@ -1,6 +1,7 @@
 ---
-title: Rachel Graves, Curriculum Vitae
+title: Rachel Graves, Specialty Coffee Barista in South East London – CV
 layout: default
+theme: jekyll-theme-dinky
 ---
 
 # Rachel Graves
